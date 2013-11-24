@@ -1,6 +1,7 @@
 # Authy Puppet Module for Boxen
-[![Build Status](https://travis-ci.org/pauloconnor/puppet-authy.png?branch=1.0.0)](https://travis-ci.org/pauloconnor/puppet-authy)
+[![Build Status](https://travis-ci.org/pauloconnor/puppet-authy.png?branch=master)](https://travis-ci.org/pauloconnor/puppet-authy)
 
+Installs [Authy Bluetooth Pairing](https://www.authy.com/thefuture) app
 
 ## Usage
 
